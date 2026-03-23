@@ -1,0 +1,18 @@
+Fitter Status : Successful - Mon Mar 23 19:40:16 2026
+Quartus Prime Version : 19.1.0 Build 670 09/22/2019 SJ Lite Edition
+Revision Name : euclid_algorithm
+Top-level Entity Name : euclid_algorithm
+Family : MAX 10
+Device : 10M16SAU169C8G
+Timing Models : Final
+Total logic elements : 141 / 15,840 ( < 1 % )
+    Total combinational functions : 141 / 15,840 ( < 1 % )
+    Dedicated logic registers : 36 / 15,840 ( < 1 % )
+Total registers : 36
+Total pins : 50 / 130 ( 38 % )
+Total virtual pins : 0
+Total memory bits : 0 / 562,176 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 90 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )

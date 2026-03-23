@@ -1,0 +1,27 @@
+# Quartus generated databases
+db/
+incremental_db/
+
+# Output files (bitstream, reports)
+output_files/
+
+# Simulation generated files
+simulation/
+*.do
+modelsim.ini
+rtl_work/
+
+# Quartus workspace (contains local paths)
+*.qws
+
+# Quartus lock file
+*.qdf
+
+# ModelSim wave files (optional, remove # if you want to ignore these too)
+# *.wlf
+# vsim.wlf
+
+# Keep these (source files):
+# *.vhd
+# *.qpf
+# *.qsf
