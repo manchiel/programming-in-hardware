@@ -1,1 +1,1 @@
-![shema](assets\Euclid .drawio.png)
+![shema](assets\euclid_shema.png)
